@@ -1,6 +1,6 @@
 # System Status Checker
 
-This Go code provides a simple system status checker that periodically checks the system status and reports various metrics such as uptime, load average, disk usage, memory usage, and network status. It runs as a continuous process and provides real-time information about the system.
+This program provides a simple system status checker that periodically checks the system status and reports various metrics such as uptime, load average, disk usage, memory usage, and network status. It runs as a continuous process and provides real-time information about the system.
 
 ## Prerequisites
 

@@ -59,7 +59,7 @@ The `checkNetworkStatus` function uses the `ifconfig` command to retrieve the ne
 
 The `waitForTerminationSignal` function waits for a termination signal (e.g., CTRL+C) and terminates the program gracefully when the signal is received.
 
-## Output:
+## Sample Output:
 
 ```yaml
     ===== System Status Report =====

@@ -98,10 +98,6 @@ You can customize the system status checks by modifying the `checkSystemStatus` 
 
 For example, if you want to add a check for CPU temperature, you can create a new helper function (`checkCPUTemperature`), implement the logic to retrieve the temperature, and call it within the `checkSystemStatus` function.
 
-## License
-
-This code is released under the MIT License. Feel free to modify and use it in your own projects.
-
 ## Disclaimer
 
 This code is provided as-is without any warranty. Use it at your own risk. The author is not responsible for any damage or loss caused by the use of this code.
